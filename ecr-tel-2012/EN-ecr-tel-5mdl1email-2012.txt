@@ -1,20 +1,25 @@
 # Communiquer par écrit et par téléphone en anglais
 
 ## 5. Modèle 
-### PARTIE 1 (e-mail) « Invitation au salon de l’informatique »
+### PARTIE 1 (e-mail) « Invitation à la réunion de lancement du projet international»
 
-Subject: IT trade fair in Paris 
+Subject: Kick-Off Meeting in Paris
 
 Dear colleagues, 
-We are proud to announce that Intersoft is going to present three brand-new, state-of-the-art products at the ‘Salon d’Informatique’ trade show in La Défense near Paris this year. 
+I'm Sébastien Henocq from the Paris office. I was asked by our management to head the project team you are all members of.
 
-The trade show will take place from November 21 until November 23. The Intersoft stand will be in aisle B14. 
+As you know, this project is critical in the launch of a new internal management software that will enable us to cooperate more closely
+across borders and that will make all lives so much easier. Your input and commitment is needed to make this a success.
 
-As you know, this internationally renowned event attracts more than 20,000 professional visitors every year and orders increased by 20% after last year’s exhibition. 
+I'm pleased to announce that the kick-off meeting will be held on 15 December in Paris. The meeting will start at 11 am, so that those
+of you who want to come to Paris in the morning can do so. The meeting will be finished by 4 pm.
 
-The Paris staff would be very happy to welcome some of you at our stand this autumn. Please let me know as soon as possible if you wish to attend, and how many days you will stay, so that I can make the necessary arrangements. 
+Could you confirm as soon as possible that you can attend. Your participation will be vital, as we are going to lay the foundations
+of this important project.
 
-Further information on the exhibition and our new product line can be found on our Intranet. 
+Please feel free to contact me any time for further questions and remarks.
+
+Looking forward to meeting you in Paris.
 
 Best regards, 
-Julien Charbon 
+Sébastien Henocq 

@@ -22,11 +22,10 @@ Renseignements divers
 • Une première réunion est organisée à Paris le 15 du mois prochain.
 
 C) Consignes pour l’étudiant(e) 
-Vous êtes directeur/trice commercial(e) d’Intersoft France. 
+Vous êtes chef de projet chez AVIDIA. 
 Objectif 
-Vous rédigez en anglais un e-mail dans lequel vous invitez au CNIT pour le salon de l’informatique les directeurs commerciaux et technico-commerciaux de vos filiales européennes. Comme le salon devient de plus en plus international, vous souhaiteriez avoir vos homologues avec vous sur le stand, sans vouloir cependant le leur imposer. Vous mentionnez qu’Intersoft présentera trois nouveaux logiciels à cette occasion. Vous demandez aux collègues qui seraient intéressés de confirmer leur venue et de préciser la durée de leur séjour. Vous localisez avec précision le stand Intersoft dans l’espace d’exposition (hall, secteur) et indiquez que l’on peut trouver des informations complémentaires sur le réseau intranet d’Intersoft. 
-D) Guide de l’évaluateur 
-Généralités 
+Vous rédigez en anglais un e-mail dans lequel vous invitez tous les membres d'équipe pour la première réunion. Dans ce mail, présentez-vous et le projet, soulignez l'importance et l'impact de ce projet, précisez la date et le lieu de la réunion et demandez de chaque participant de confirmer sa présence par retour de mail.
+D) Consignes pour le formateur 
 Vous êtes uniquement évaluateur. Après avoir pris connaissance de la production de l’étudiant(e), remplissez la grille d’évaluation ainsi que la rubrique « Observations ». 
 
 E1) Grille d’évaluation pour la première partie
@@ -35,9 +34,9 @@ actes de communication attendus
 
 1)	* Préciser dans le titre de l’e-mail l’objet du courrier.
 2)	* Utiliser une formule d’amorce. 
-3)	* Formuler l’invitation au salon de l’informatique. 
-4)	* Mentionner en deux phrases maximum les trois nouveaux produits qui seront présentés au salon.
-5)	* Demander aux destinataires de confirmer leur venue et de préciser la durée de leur séjour. 
-6)	* Donner des informations pratiques (localisation du stand, etc.). 
-7)	* Indiquer que l’on peut trouver des informations supplémentaires sur le réseau intranet. 
+3)	* Se présenter. 
+4)	* Présenter brièvement le projet et son importance.
+5)	* Donner des renseignements pratiques (date, heure et lieu de la réunion).
+6)	* Demander aux destinataires de confirmer leur venue et de préciser la durée de leur séjour.
+7)	* Indiquer que les membres de l'équipe peuvent le le joindre pour poser des questions.
 8)	* Conclure par une formule de politesse.

@@ -30,13 +30,13 @@
 4-1	réun-sol	Se réunir pour trouver des solutions
 
 ## C. Par urgence
-1. 1-2	écr-tél	Communiquer par écrit & téléphone
-2. 3-2	vend-prod	Vendre un produit ou un service
-3. 1-3	vivr-étran	Vivre, travailler et étudier à l'étranger
-4. 3-3	prés-prpro	Présenter son projet professionnel
-5. 1-1	prm-cont	Premier contact
-6. 3-1	prés-entr	Présenter une entreprise
-7. 4-1	réun-sol	Se réunir pour trouver des solutions
+1. 1-2	ok écr-tél	Communiquer par écrit & téléphone
+2. 4-1  réun-sol	Se réunir pour trouver des solutions
+3. 1-1  prm-cont	Premier contact
+4. 3-1  prés-entr	Présenter une entreprise
+5. 3-2	vend-prod	Vendre un produit ou un service
+6. 1-3	vivr-étran	Vivre, travailler et étudier à l'étranger
+7. 3-3	prés-prpro	Présenter son projet professionnel
 8. 2-1	cré-pub	Créer une publicité
 9. 2-2	décr-poste	Décrocher un poste
 10. 2-3	prés-buspl	Présenter un business plan

@@ -1,6 +1,6 @@
 # Communiquer par écrit et par téléphone en anglais
 
-## 3.Situation-épreuve* : « Invitation au salon de l’informatique »
+## 4. Situation-épreuve* : « Invitation au salon de l’informatique »
 
 ### PARTIE 1 (e-mail)
 
@@ -40,3 +40,4 @@ actes de communication attendus
 6)	* Demander aux destinataires de confirmer leur venue et de préciser la durée de leur séjour.
 7)	* Indiquer que les membres de l'équipe peuvent le le joindre pour poser des questions.
 8)	* Conclure par une formule de politesse.
+
